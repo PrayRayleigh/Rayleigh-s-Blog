@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-02-13T02:29:58.000Z</updated>
+  <updated>2025-06-23T00:31:22.102Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,39 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2025/06/23/MoE/"/>
-    <id>http://example.com/2025/06/23/MoE/</id>
-    <published>2025-06-23T00:31:22.102Z</published>
-    <updated>2025-02-13T02:29:58.000Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2025/06/23/hello-world/"/>
-    <id>http://example.com/2025/06/23/hello-world/</id>
-    <published>2025-06-23T00:31:22.102Z</published>
-    <updated>2025-06-23T00:31:22.102Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a class="link" href="https://hexo.io/">Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link" href="https://hexo.io/docs/">documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link" href="https://hexo.io/docs/troubleshooting.html">troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link" href="https://github.com/hexojs/hexo/issues">GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure></div><p>More info: <a class="link" href="https://hexo.io/docs/writing.html">Writing<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link" href="https://hexo.io/docs/server.html">Server<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div><p>你好，世界！<br>More info: <a class="link" href="https://hexo.io/docs/generating.html">Generating<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link" href="https://hexo.io/docs/one-command-deployment.html">Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a class=&quot;link&quot; href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;i class=&quot;fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title></title>
@@ -75,7 +42,7 @@
     <link href="http://example.com/2025/06/23/%E5%BD%AA%E5%AD%A6%E5%B8%96/"/>
     <id>http://example.com/2025/06/23/%E5%BD%AA%E5%AD%A6%E5%B8%96/</id>
     <published>2025-06-23T00:31:22.102Z</published>
-    <updated>2025-06-23T00:31:22.102Z</updated>
+    <updated>2025-06-23T00:51:41.314Z</updated>
     
     <content type="html"><![CDATA[<p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://github.com/PrayRayleigh/picx-images-hosting/raw/master/victoria_m.jpg"                      alt="维多利亚——彪哥的地盘"                ><br>辽北第一狠人，开原第一保镖，水库浪子，开原市几场著名恶仗的主打人，桂英风味饭店行政总厨，维多利亚国际娱乐广场总经理保镖兼保安部经理，德彪投资股份有限公司董事长兼总经理，开原市液化石油气总公司高级送气员，彪记靓汤总经理，大帅打工子弟学校常务副校长，开原中医院首席导诊，小翠美容院副总经理，彪哥解梦馆馆长周公首席大弟子<br>    <center><img                       lazyload                     src="/images/loading.svg"                     data-src="https://github.com/PrayRayleigh/picx-images-hosting/raw/master/biaoge.org_0062.jpg"                      alt="img"                 ></center></p>]]></content>
     
@@ -96,11 +63,34 @@
   </entry>
   
   <entry>
+    <title>白嫖火山DeepSeek-API</title>
+    <link href="http://example.com/2025/02/20/%E7%99%BD%E5%AB%96%E7%81%AB%E5%B1%B1DeepSeek-API/"/>
+    <id>http://example.com/2025/02/20/%E7%99%BD%E5%AB%96%E7%81%AB%E5%B1%B1DeepSeek-API/</id>
+    <published>2025-02-20T12:07:05.000Z</published>
+    <updated>2025-06-23T00:38:25.814Z</updated>
+    
+    <content type="html"><![CDATA[<p>火山引擎最近出了DeepSeek的API，它的模式类似于PDD砍一刀，如果能拉到人注册就能获得不少优惠券。下面简单介绍一下接入火山DeepSeekAPI的教程。</p><h2 id="获取API"><a href="#获取API" class="headerlink" title="获取API"></a>获取API</h2><p> <a class="link"   href="https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=LR4VO3Y5" >注册<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>点这里注册得15元优惠券。<br>注册可以获得15元优惠券。大概是1,000,000Tokens。邀请别人可以获得30元优惠券。<br>注册完成后进入<a class="link"   href="https://console.volcengine.com/ark/region:ark+cn-beijing/apiKey" >API管理<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>页面，创建API。<br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://gh-proxy.com//github.com/PrayRayleigh/picx-images-hosting/raw/master/deepseekChatBOX.99thrauv2a.webp"                      alt="image"                ><br>创建完成的APIkey在这里，这是访问访问DeepSeek的密码。</p><h2 id="开通Deepseek-R1服务"><a href="#开通Deepseek-R1服务" class="headerlink" title="开通Deepseek-R1服务"></a>开通Deepseek-R1服务</h2><p>点击<a class="link"   href="https://console.volcengine.com/ark/region:ark+cn-beijing/openManagement" >开通管理<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，开通DeepSeek-R1模型，一开始有免费的500,000Tokens额度，大概能用几天。<br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://gh-proxy.com//github.com/PrayRayleigh/picx-images-hosting/raw/master/deepseekopen.13lx0supb8.webp"                      alt="Deepseek"                ></p><p>在命令行输入以下指令测试你的Api是否生效</p><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">curl https://ark.cn-beijing.volces.com/api/v3/chat/completions \</span><br><span class="line">  -H <span class="string">&quot;Content-Type: application/json&quot;</span> \</span><br><span class="line">  -H <span class="string">&quot;Authorization: Bearer 这里是你的APIKEY&quot;</span> \</span><br><span class="line">  -d <span class="string">&#x27;&#123;</span></span><br><span class="line"><span class="string">    &quot;model&quot;: &quot;deepseek-r1-250120&quot;,</span></span><br><span class="line"><span class="string">    &quot;messages&quot;: [</span></span><br><span class="line"><span class="string">      &#123;&quot;role&quot;: &quot;system&quot;,&quot;content&quot;: &quot;你是人工智能助手.&quot;&#125;,</span></span><br><span class="line"><span class="string">      &#123;&quot;role&quot;: &quot;user&quot;,&quot;content&quot;: &quot;常见的十字花科植物有哪些？&quot;&#125;</span></span><br><span class="line"><span class="string">    ]</span></span><br><span class="line"><span class="string">  &#125;&#x27;</span></span><br></pre></td></tr></table></figure></div><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://gh-proxy.com//github.com/PrayRayleigh/picx-images-hosting/raw/master/Pasted-image-20250301153739.7w6yn9jvv2.webp"                      alt="Answer"                ></p><h3 id="部署API"><a href="#部署API" class="headerlink" title="部署API"></a>部署API</h3><p>1.<a class="link"   href="https://github.com/Bin-Huang/chatbox/releases" >Chatbox<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>:<br>添加自定义API，选择Open-AI兼容<br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://gh-proxy.com//github.com/PrayRayleigh/picx-images-hosting/raw/master/chatbox.2vevvp9lyw.webp"                      alt="chatbox"                ><br>API密钥填自己的。</p><div class="code-container" data-rel="Yaml"><figure class="iseeu highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">域名:</span> <span class="string">https://ark.cn-beijing.volces.com/api/v3</span></span><br><span class="line"><span class="string">路径:</span> <span class="string">/chat/completions</span></span><br><span class="line"><span class="string">模型:</span> <span class="string">deepseek-r1-250120</span></span><br></pre></td></tr></table></figure></div><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://gh-proxy.com//github.com/PrayRayleigh/picx-images-hosting/raw/master/dschat.60udun7g98.webp"                      alt="ds"                ></p><h2 id="OpenWebUI接入"><a href="#OpenWebUI接入" class="headerlink" title="OpenWebUI接入"></a>OpenWebUI接入</h2><p>这里就不细写了，详情见<a class="link"   href="https://openwebui-doc-zh.pages.dev/" >OpenWebUI文档<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>。</p><h2 id="本博客提供的DS-API服务"><a href="#本博客提供的DS-API服务" class="headerlink" title="本博客提供的DS API服务"></a>本博客提供的DS API服务</h2><p>如果你觉得这些都很麻烦的话，也可以访问<a class="link"   href="https://ai.catstack.xyz/" >ai.catstack.xyz<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>获取我部署的OpenWebUI服务。不过别忘了用我的邀请码<a class="link"   href="https://www.volcengine.com/experience/ark?utm_term=202502dsinvite&ac=DSASUQY5&rc=LR4VO3Y5" >注册<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，这样我就可以获得API代金券来支持这一服务，感谢你的支持！。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;火山引擎最近出了DeepSeek的API，它的模式类似于PDD砍一刀，如果能拉到人注册就能获得不少优惠券。下面简单介绍一下接入火山DeepSeekAPI的教程。&lt;/p&gt;
+&lt;h2 id=&quot;获取API&quot;&gt;&lt;a href=&quot;#获取API&quot; class=&quot;headerlink&quot; t</summary>
+      
+    
+    
+    
+    
+    <category term="Tech" scheme="http://example.com/tags/Tech/"/>
+    
+  </entry>
+  
+  <entry>
     <title>MC生电服</title>
     <link href="http://example.com/2024/11/07/Minecraft%E7%94%9F%E7%94%B5%E6%9C%8D/"/>
     <id>http://example.com/2024/11/07/Minecraft%E7%94%9F%E7%94%B5%E6%9C%8D/</id>
     <published>2024-11-07T13:07:05.000Z</published>
-    <updated>2025-06-23T00:31:22.102Z</updated>
+    <updated>2025-06-23T00:53:18.511Z</updated>
     
     <content type="html"><![CDATA[<pre><code>整了个小树莓派一直在吃灰，索性开个服务器好了。性能还可以 TPS能稳20.cn-hb-lt-tmp2.natfrp.cloud:32543（开了正版验证）剩下的以后再写（懒癌发作~~）</code></pre>]]></content>
     
@@ -126,7 +116,7 @@ cn-hb-lt-tmp2.natfrp.cloud:32543（开了正版验证）
     <link href="http://example.com/2024/11/07/escape-internet2/"/>
     <id>http://example.com/2024/11/07/escape-internet2/</id>
     <published>2024-11-07T13:07:05.000Z</published>
-    <updated>2025-06-23T00:31:22.102Z</updated>
+    <updated>2025-06-23T00:53:47.035Z</updated>
     
     <content type="html"><![CDATA[<p>​此帖用来记录我不断完善的对于互联网世界的思考。将不断修改</p><p><strong>“上个时代我们将媒介作为获取信息的手段，这个时代媒介则变为我们生活的世界”</strong></p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://github.com/PrayRayleigh/picx-images-hosting/raw/master/78813d8508f02b94eda47c2c5645ad51.gif"                      alt="img"                ></p><p>  <strong>无知即力量 自由即奴役 战争即和平</strong></p><p>还有罗素的一些话我就不抄了，我很喜欢罗素，真要放上去这篇至少上万字。</p><p>​也不知道从哪里写起，先写一个让我觉得很不适的现象吧。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://github.com/PrayRayleigh/picx-images-hosting/raw/master/cc9420ce462f9d77391c09ce208bddd4.jpg"                      alt="img"                ></p><p>​  这种离谱标题看了让人很膈应，我感觉到其中有着赤裸的意图，无论此人是有意还是无意写上去的。逆天！我刚上大一就。。首先是，是不是大一和模仿MJ像不像有什么必然的联系么，我有很多有能力的朋友，他们的爱好基本上和学业无关的。</p><p>​然后是大量的感叹号，又是逆天又是全院震惊。有一种故作卖弄的感觉，这种标题给我一种不知所云的感觉。就像我以前看到的一种叫不相干专家谬误。就是A领域的专家在B领域的造诣很大程度上还不如普通人。</p><p>​当然，这样的标题不在少数。它们最大的缺点在于太抓眼而内容太单薄，却不论对错，很多谈的都是老掉牙的观点，而且大概率是错的。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://github.com/PrayRayleigh/picx-images-hosting/raw/master/29b58cbb2162cc3b76b9877f033c22bf.jpg"                      alt="img"                ></p><p>​看看这糟糕的标题吧，多么令人反感。广告有《广告法》，那有没有《标题法》呢，我想是很有必要的</p><p>​说实话每次刷视频，或者说找视频对我来说是一种及其痛苦的事情，非常的耗费我的精力。现在要看点什么东西颇有一种屎里淘金的感觉。每次刷主页对我来都像是在雷普我的眼睛。也许这是我的一种特质，不能主动屏蔽有害内容，我的感官和大脑极为敏感，能吸收周遭信息，并不能按心意屏蔽或者彻底放下。这也使得我活得非常难受。</p><p>​ 为什么我当年看电视还没有这么耗费心力，真得感谢当年的电视台，那个时候看的都是细糠啊。更别提看书了，可惜我还没有到那种爱看书的地步，不然更是一种享受。</p><p>​     这一面的互联网给了你想看什么看什么的“自由”，但是也在奴役我们的精神！这就是第一“自由即奴役”</p><p>回到开始提的那个视频，感到不适的我立刻去看了评论区，果不其然，这个up说自己挨骂了。之所以挨骂了，或许是因为他上了热搜，那就更会引起那部分对他不感兴趣的人的反感。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="C:\Users\RAYLEI~1\AppData\Local\Temp\QQ_1730970653257.png"                      alt="QQ_1730970653257"                ></p><p>​当然，我也没有找到是谁骂了他，或许被他删掉了。就此，这个评论区就开启了猎巫行动。任何反对或者质疑的评论都会受到强烈的人身攻击。难道他跳个舞就可以让这些人去为了这么一件不大不小的事情去人身攻击另一个素不相识的人么。我看未必。</p><p>​所以这些人是将赞美作为道德的高地，通过虚伪的赞美和真实的攻击来反驳那不存在的敌人么？这种观点的极化有点像之前看到的一种非线性系统。说的是该系统只能稳定在两个极端。</p><p>​我浏览了上千条评论，除了毫无意义也没有根据，只能表达自己“站队”的赞美评论外以及人身攻击什么也没有。</p><p>这种网络猎巫运动展开了讲能写一大堆。但是也印证了<strong>“无知即力量”</strong></p><p>​这也不代表这个视频真的一无是处，我只是拿它举例。</p><p><strong>战争即和平</strong>这一点我还没有想明白，先不写了。</p><p>​<strong>不要让自己的思想变成别人的跑马场</strong>，应该是从2020年开始吧，我就开始发现我的头脑好像透过互联网被人入侵了一样，又是内卷又是流量时代什么的，还有一大堆无关紧要毫无意义的，从一开始就是错误的辩题。让我无法集中注意力，也耗费了我的精力。</p><p>​最近又看黑客帝国，说最开始的Matrix设定里面“人”是作为“协处理器”存在的。这个观点很有意思，或许Matrix早就诞生了，国内的因特网已经变成另一个样子了。</p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://github.com/PrayRayleigh/picx-images-hosting/raw/master/QQ_1730972598869.jpg"                      alt="img"                ></p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://github.com/PrayRayleigh/picx-images-hosting/raw/master/QQ_1730972766700.jpg"                      alt="img"                ></p><p>​</p><p>​        胡思乱想就到这里了。。。以后有新认识再改</p>]]></content>
     
@@ -173,7 +163,7 @@ cn-hb-lt-tmp2.natfrp.cloud:32543（开了正版验证）
     <link href="http://example.com/2024/10/22/Reading-Writing/"/>
     <id>http://example.com/2024/10/22/Reading-Writing/</id>
     <published>2024-10-22T11:07:05.000Z</published>
-    <updated>2025-06-23T00:31:22.102Z</updated>
+    <updated>2025-06-23T00:53:17.515Z</updated>
     
     <content type="html"><![CDATA[<p>阅读和写作就是一个很好的培养思维能力的方式，通过仔细的阅读，能够获得很多基本的思维素材，很多优秀的，触及本质的观点会让人愈发明朗。而写作，也就是表达，在当下比阅读更重要。一个人的思维，在他写的东西中体现得非常具体。写作本身也是一个整理思绪，训练思维的过程，就像是牛的反刍和消化。</p><p>所谓文笔，实际上就是思维的深度和结构，一个条理清晰的人必然不会写出又臭又长的文章。</p><p>一篇文章结构混乱也能说明作者实际上思绪乱飞，对自己的思维没有什么整理。所幸的是通过不断的练习，文章必能精简，观点必能清晰，个人必能提升。</p>]]></content>
     
@@ -197,7 +187,7 @@ cn-hb-lt-tmp2.natfrp.cloud:32543（开了正版验证）
     <link href="http://example.com/2024/10/22/alienation&amp;autoletic/"/>
     <id>http://example.com/2024/10/22/alienation&amp;autoletic/</id>
     <published>2024-10-22T11:07:05.000Z</published>
-    <updated>2025-06-23T00:31:22.102Z</updated>
+    <updated>2025-06-23T00:52:38.375Z</updated>
     
     <content type="html"><![CDATA[<p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://github.com/PrayRayleigh/picx-images-hosting/raw/master/QianJianTec1730451538242.svg"                      alt="自由 自得 异化 抑郁"                ></p><center>Freedom-Man方程（不是）</center><p>​这几年来，应该是从2018年开始，愈发地感觉到自己不是自己了，好像这世界被绑上了火箭离我而去，而我在后面苦苦挣扎。高中时期的干熬，大学时期的摆烂。让我愈发变成一个焦虑，恐惧，麻木，但又无力的人。先是恐惧，再是焦虑，最后是抑郁。</p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/52Gg9CqhbP8?si=ckMPiLpmksON05kK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center><p>​这种人格上的崩溃是各方面的，在思想上，我变成一个功利的“机器”，但是由于太功利反而卷不过别人，然后我就开始逃避。并且由于这种比较是各方面的，所以我开始放弃一个人的理智和幸福，转而成为寻求刺激的动物。</p><p>​        空心的我受到了太多的规训，我用外界给我的所谓的“教育”填满，自己变成一个四不像的怪物，自己剥削自己。一开始就陷入了无穷的虚无和痛苦之中。说白了，我的三观出了问题，我的价值观全部来自于外界，来自那些把我当耗材的人，我相信了他们的谎言，将自己的人生完全锚定在他们规定的“优秀”之中。他们将我的灵魂驱逐出肉体，用他们的控制话语塞满我，让我的灵魂眼巴巴地看着我的肉体受折磨而无法控制。</p><p>​         早在高中的时候，我的脑子中就冒出“我的肉体在拖拽自己的灵魂”的想法。那时，学校宣扬什么，我就追求什么。到了大学，学校宣扬什么，我就追求什么，和高中不同的是，失去了意义支撑的我开始跌倒，开始努力的寻求，寻求别人在追求什么？</p><p>​         看，这个人拿到了无数奖学金！</p><p>​         看，这个人在计算机方面天赋异禀！</p><p>​         看，这个人动手能力天赋异禀！</p><p>​ 看，这个人会弹钢琴！</p><p> 看，这个人四处旅游!</p><p>​ 看，这个人摄影很厉害!</p><p>​         而我，在当时的环境下，首先是想着自己也能成为非常厉害的人，在各方面都很厉害的那种。于是我开始各种尝试。但是那种急切想要变成一个所谓“完美”的人的欲望，将我推入了焦虑的深渊,我不再是为了喜欢做事情而做这件事情，我只是喜欢“我很厉害”，这个评价本身，另一方面，我很依赖这个幻觉。没有很强烈的动机，所以结果都很糟糕。</p><p>​         在多次放弃和受到“打击”之后，我还是没有意识到“Everything is nothing”的道理，开始逃避，开始尽量远离那些曾经失败的领域，并给他们加上恐怖的滤镜。但是由于价值观的错误，我还是带着这种焦虑硬着头皮做，更焦虑了，最后我休克了。。</p><p>我开始熬夜，刷手机，和别人谈论不痛不痒的话题，用食物填满我空虚的精神，刺激我疲惫的灵魂。我的肝脏，胰岛出现了不小的问题，但是我就像是一个溺水的人，难以自救。但是由于以自我为中心的观点仍然让我难以向他人寻求帮助。我开始寻找答案，并逐步关闭了自身的思考能力，开始相信他人的观点，无论好坏我全盘接受。只为了急切的寻求让我变得“特殊”的方法。</p><p>​这就更糟糕了，这世上怎么可能有刷网络帖子就能支棱起来的人呢，他们除了要求你为他们创造价值，浪费你的时间，其他的什么意义都没有。就这样，我什么也不想做了，无力到了极点就是愤怒和悲伤。</p><p>这些问题的根源就在于我一个很愚蠢的缺点：我无法接受自己的普通。不得不承认，自始至终都是这个问题。如果不用普通人的视角要求自己，又怎么可能清晰地认识现状！首先，普通不是一件坏事，其次，我没有变得不普通的使命。只有这样才能重拾自己的生活！</p><p>经过一段时间的重新思考和不断实践，我意识到我的人生如果有两件事情，那么他就是它意义的，我就是幸福的。</p><p>​第一是自由：”路在脚下，更在心中，心随路转，心路长宽”，即便将我封锁于果壳之中，我依旧是无限空间之王。即使当下夺走了我的话语权，夺走了我对自己的评判标准。我依然能按自己的方式思考，行动，心无外物，这样才能避免无力和抑郁。</p><p>​第二是自得或者自发：自得翻译自古希腊语“Autoletic”。只有这样才能真正专注于眼前的事情。        </p>]]></content>
     
@@ -289,7 +279,7 @@ cn-hb-lt-tmp2.natfrp.cloud:32543（开了正版验证）
     <link href="http://example.com/2024/10/22/%E8%AF%BB%E9%80%BB%E8%BE%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/"/>
     <id>http://example.com/2024/10/22/%E8%AF%BB%E9%80%BB%E8%BE%91%E5%AD%A6%E5%AF%BC%E8%AE%BA/</id>
     <published>2024-10-22T11:07:05.000Z</published>
-    <updated>2025-06-23T00:31:22.102Z</updated>
+    <updated>2025-06-23T00:51:41.870Z</updated>
     
     <content type="html"><![CDATA[<p>首先 不是所有错误的逻辑都可以被称为谬误，典型的错误逻辑尚可被称为</p><p>谬误</p><p>谬误大体分为如下几种谬误：</p><p>1.诉诸情感：煽动情绪</p><p>2.转移注意</p><p>3.稻草人：曲解问题</p><p>4.人身攻击</p><p>A 诽谤</p><p>B；背景谬误：比烂，阴谋论等</p><p>5.诉诸暴力：强权就是真理，被胁迫</p><p>6.不得要领：搅浑水 隐藏真实问题 答非所问</p><p>以上几种 前提和结论都不想干</p><p>不当归纳谬误 不知道的事情都是假的 诉诸无知的论证来证伪 不能证明无罪之前都有罪</p><p>诉诸不当权威： 用一个明星证明手机好用，用一个科学家的观点论证国际关系的对错，声量和带货 以及所谓“权威认证”。让一个在a方面权威的人做b方面的事情。</p><p>虚假原因：错误地认为一件事是另一件事情的原因：“电子游戏导致了学生的普遍抑郁”</p><p>滑坡谬误：现在网上比较火的灾难化思维，就是一种思维上的滑坡谬误。这种谬误很有影响力。这种论调的人如履薄冰 认为事物一定会向灾难的方向发展。</p><p>轻率概括：一个天天抽烟的老头活了九十多岁，也不能说明香烟是健康的</p><p>预设谬误</p><p>1.偶然事件：495分就可以上同济大学土木工程 土木工程就彻底完蛋了。</p><p>2.复杂问语：潜藏在复杂问题下的谬误，当一个问题是复杂的时候，应该对它们逐个否定。</p><p>3.丐题：根本没有组成论证的一系列命题，比如 因为我是好的，所以我是好的。组成的是循环论证。直接推翻问题本身，让其失去论证的必要。</p><p>含混谬误</p><p>1.歧义</p><p>合成</p><p>分解</p>]]></content>
     
